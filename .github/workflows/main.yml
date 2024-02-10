@@ -10,4 +10,4 @@ jobs:
     - name: Echo hello world
       run: echo Hello World
     - name: Check out index code
-      run: cat index.html
+      run: cat index1.html
